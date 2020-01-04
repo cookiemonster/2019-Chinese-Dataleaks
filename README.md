@@ -1,5 +1,5 @@
 # 2019-Chinese-Dataleaks
-A small collection of Chinese dataleaks caused open by file and database servers in China
+A small collection of Chinese dataleaks caused open by file and database servers in China. All the dataleaks have been reported and closed. This is the data that was publicly available 
 
 
 
@@ -31,3 +31,16 @@ A small collection of Chinese dataleaks caused open by file and database servers
     * 6.0M    yymsg_netbar20190302.mdb.json
     * 708K    yymsg_netbar20190303.json
     * 836K    yymsg_netbar20190303.mdb.json
+
+
+## SenseNets
+* Public
+  * News
+    * [ZDnet](https://www.zdnet.com/article/chinese-company-leaves-muslim-tracking-facial-recognition-database-exposed-online/)
+  * Social
+    * [Twitter](https://twitter.com/0xDUDE/status/1095702540463820800)
+* Files
+    * [Mega](https://mega.nz/#F!BtBTGAAR)
+    
+    
+  
