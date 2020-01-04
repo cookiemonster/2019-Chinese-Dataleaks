@@ -1,6 +1,5 @@
 # 2019-Chinese-Dataleaks
-A small collection of Chinese dataleaks caused open by file and database servers in China. All the dataleaks have been reported and closed. This is the data that was publicly available 
-
+A small collection of Chinese data leaks caused open by file and database servers in China. All the data leaks have been reported and are closed. This is the data that was publicly available via the internet. Are you an academic or researcher? Then you can get access to this if you fulfill the conditions. Every candidate will go through an extensive screening and background check before you are granted access. Before this is possible, you must sign a statement certifying that information on individuals will not be passed on to others and that all data will be treated as confidential. Data will only be forwarded once we have received a signed statement.
 
 
 ## Netbar
@@ -10,7 +9,7 @@ A small collection of Chinese dataleaks caused open by file and database servers
   * Social
     * [Twitter](https://twitter.com/0xDUDE/status/1102303971765641216)
 * Files
-  * [Mega](https://mega.nz/#F!AkYl0CKY)
+  * [Mega container](https://mega.nz/#F!AkYl0CKY) - *a decryption key is required*
     * 8.0K    ismsg_netbar20190301.mdb.json
     * 4.0K    ismsg_netbar20190302.mdb.json
     * 6.0M    mdb.json
@@ -40,7 +39,12 @@ A small collection of Chinese dataleaks caused open by file and database servers
   * Social
     * [Twitter](https://twitter.com/0xDUDE/status/1095702540463820800)
 * Files
-    * [Mega](https://mega.nz/#F!BtBTGAAR)
+    * [Mega container](https://mega.nz/#F!BtBTGAAR) - *a decryption key is required*
+      * 20.7M verification.MachineOnlineTime.json	
+      * 638.2M verification.PassLog.json	
+      * 7.84G verification.PassPerson.json	
+      * 15K trackers.IPs.txt
+
     
     
   
