@@ -1,11 +1,12 @@
 # 2019 Chinese Data Leaks Collection
 A small collection of Chinese data leaks caused open by file and database servers in China. All the data leaks have been reported and are closed. This is the data that was publicly available via the internet. Are you an academic or researcher? Then you can get access to this if you **fulfill the conditions**. Every candidate will go through an __extensive screening process__ and background check before you are granted access. Before this is possible, you must sign a statement certifying that information on individuals will not be passed on to others and that all data will be treated as confidential. Data will only be forwarded once we have received a signed statement.
 
-Available data sets
-
-- BreedReady
+Public Data collections:
+- BreedReady (n/a)
 - Netbar
 - SenseNets
+- WeChat (n/a)
+
 
 ## BreedReady
 * Public
@@ -58,6 +59,16 @@ Available data sets
       * 7.84G verification.PassPerson.json	
       * 15K trackers.IPs.txt
 
+## WeChat
+* Public
+  * News
+    * [NPR](https://www.npr.org/2019/08/29/751116338/china-intercepts-wechat-texts-from-u-s-and-abroad-researcher-says?t=1578232760019)
+  * Social
+    * [Twitter](https://twitter.com/0xDUDE/status/1107793510881742848/photo/1)
+* Files
+    * [Huawei Cloud](https://cloud.huawei.com/home#/collection?type=0&path=%2FWeChat%2F) - *currently unaccessible* 
+      * wxmsq_20190318.json	
+  
     
     
   
