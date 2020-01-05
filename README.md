@@ -1,9 +1,9 @@
 # 2019 Chinese Data Leaks Collection
 A small collection of Chinese data leaks caused open by file and database servers in China. All the data leaks have been reported and are closed. This is the data that was publicly available via the internet. Are you an academic or researcher? Then you can get access to this if you **fulfill the conditions**. Every candidate will go through an __extensive screening process__ and background check before you are granted access. Before this is possible, you must sign a statement certifying that information on individuals will not be passed on to others and that all data will be treated as confidential. Data will only be forwarded once we have received a signed statement.
 
-###Available data sets
+Available data sets
 
-- BreedReady 
+- BreedReady
 - Netbar
 - SenseNets
 
